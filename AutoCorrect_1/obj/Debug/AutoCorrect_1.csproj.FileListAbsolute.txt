@@ -1,0 +1,6 @@
+D:\Git_Repos\TechnicalTask\AutoCorrect_1\bin\Debug\AutoCorrect_1.exe.config
+D:\Git_Repos\TechnicalTask\AutoCorrect_1\bin\Debug\AutoCorrect_1.exe
+D:\Git_Repos\TechnicalTask\AutoCorrect_1\bin\Debug\AutoCorrect_1.pdb
+D:\Git_Repos\TechnicalTask\AutoCorrect_1\obj\Debug\AutoCorrect_1.csproj.CoreCompileInputs.cache
+D:\Git_Repos\TechnicalTask\AutoCorrect_1\obj\Debug\AutoCorrect_1.exe
+D:\Git_Repos\TechnicalTask\AutoCorrect_1\obj\Debug\AutoCorrect_1.pdb
